@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ConsumerApp</string>
+    <string name="nama_user">Nama</string>
+    <string name="username">Username</string>
+    <string name="work_at">Company</string>
+    <string name="company">Company</string>
+    <string name="location">Location</string>
+    <string name="nulled">Null</string>
+    <string name="repositories">Repositories</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="reminder_setting">Reminder Setting</string>
+    <string name="daily_reminder">Daily Reminderr</string>
+    <string name="setting">Setting</string>
+    <string name="daily_message">Search Your Favorite User</string>
+</resources>

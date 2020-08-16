@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Mohammad Eko</string>
+    <string name="nama_user">Nama</string>
+    <string name="username">Username</string>
+    <string name="work_at">Company</string>
+    <string name="work">Tempat Kerja</string>
+    <string name="location">location</string>
+    <string name="nulled">Null</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="repositories">Repositories</string>
+    <string name="reminder_setting">Reminder &amp; Language Setting</string>
+    <string name="daily_reminder">Daily Reminder</string>
+
+    <string name="setting">Setting</string>
+    <string name="favorite">Favorite</string>
+    <string name="daily_message">Search Your Favorite User</string>
+    <string name="company">Company</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="home_favorite">User Favorite</string>
+    <string name="placeholder_tittle">SEARCH</string>
+    <string name="item_user_desc_image_profile">Image Profile</string>
+    <string name="profile_user_desc_image_profile">Image Profil</string>
+    <string name="change_language">Change Language</string>
+</resources>
